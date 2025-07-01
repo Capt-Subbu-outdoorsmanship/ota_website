@@ -1,0 +1,103 @@
+<a href="gallery/1.png" target="_blank"><img class="gallery_box_photo" src="gallery/1.png" alt="1.png"> </a> 
+<a href="gallery/20240220_134243.png" target="_blank"><img class="gallery_box_photo" src="gallery/20240220_134243.png" alt="20240220_134243.png"> </a> 
+<a href="gallery/Alpine Coill1.jpg" target="_blank"><img class="gallery_box_photo" src="gallery/Alpine Coill1.jpg" alt="Alpine Coill1.jpg"> </a> 
+<a href="gallery/Archery2.jpg" target="_blank"><img class="gallery_box_photo" src="gallery/Archery2.jpg" alt="Archery2.jpg"> </a> 
+<a href="gallery/Astronomy & Sky-Gazing.jpg" target="_blank"><img class="gallery_box_photo" src="gallery/Astronomy & Sky-Gazing.jpg" alt="Astronomy & Sky-Gazing.jpg"> </a> 
+<a href="gallery/Biking.jpg" target="_blank"><img class="gallery_box_photo" src="gallery/Biking.jpg" alt="Biking.jpg"> </a> 
+<a href="gallery/Bird Morphology1.png" target="_blank"><img class="gallery_box_photo" src="gallery/Bird Morphology1.png" alt="Bird Morphology1.png"> </a> 
+<a href="gallery/Bird Photography.JPG" target="_blank"><img class="gallery_box_photo" src="gallery/Bird Photography.JPG" alt="Bird Photography.JPG"> </a> 
+<a href="gallery/Birding.JPG" target="_blank"><img class="gallery_box_photo" src="gallery/Birding.JPG" alt="Birding.JPG"> </a> 
+<a href="gallery/Bivouacs1B.png" target="_blank"><img class="gallery_box_photo" src="gallery/Bivouacs1B.png" alt="Bivouacs1B.png"> </a> 
+<a href="gallery/BLSM2.jpg" target="_blank"><img class="gallery_box_photo" src="gallery/BLSM2.jpg" alt="BLSM2.jpg"> </a> 
+<a href="gallery/Campfire.JPG" target="_blank"><img class="gallery_box_photo" src="gallery/Campfire.JPG" alt="Campfire.JPG"> </a> 
+<a href="gallery/Camping Site with Snake Trench.jpg" target="_blank"><img class="gallery_box_photo" src="gallery/Camping Site with Snake Trench.jpg" alt="Camping Site with Snake Trench.jpg"> </a> 
+<a href="gallery/Consetllations.png" target="_blank"><img class="gallery_box_photo" src="gallery/Consetllations.png" alt="Consetllations.png"> </a> 
+<a href="gallery/Diagonal Lashing.jpg" target="_blank"><img class="gallery_box_photo" src="gallery/Diagonal Lashing.jpg" alt="Diagonal Lashing.jpg"> </a> 
+<a href="gallery/Dining  Etiquettes.JPG" target="_blank"><img class="gallery_box_photo" src="gallery/Dining  Etiquettes.JPG" alt="Dining  Etiquettes.JPG"> </a> 
+<a href="gallery/Eating with Chopsticks.JPG" target="_blank"><img class="gallery_box_photo" src="gallery/Eating with Chopsticks.JPG" alt="Eating with Chopsticks.JPG"> </a> 
+<a href="gallery/Exposure Trianglle.png" target="_blank"><img class="gallery_box_photo" src="gallery/Exposure Trianglle.png" alt="Exposure Trianglle.png"> </a> 
+<a href="gallery/Field Cookiing2.jpg" target="_blank"><img class="gallery_box_photo" src="gallery/Field Cookiing2.jpg" alt="Field Cookiing2.jpg"> </a> 
+<a href="gallery/Field Cooking1.JPG" target="_blank"><img class="gallery_box_photo" src="gallery/Field Cooking1.JPG" alt="Field Cooking1.JPG"> </a> 
+<a href="gallery/Finding Degrees.png" target="_blank"><img class="gallery_box_photo" src="gallery/Finding Degrees.png" alt="Finding Degrees.png"> </a> 
+<a href="gallery/Finding Time using the Sun's Position.png" target="_blank"><img class="gallery_box_photo" src="gallery/Finding Time using the Sun's Position.png" alt="Finding Time using the Sun's Position.png"> </a> 
+<a href="gallery/Finger Degrees.png" target="_blank"><img class="gallery_box_photo" src="gallery/Finger Degrees.png" alt="Finger Degrees.png"> </a> 
+<a href="gallery/Fishing in Assam.png" target="_blank"><img class="gallery_box_photo" src="gallery/Fishing in Assam.png" alt="Fishing in Assam.png"> </a> 
+<a href="gallery/Hiking & Trekking.jpg" target="_blank"><img class="gallery_box_photo" src="gallery/Hiking & Trekking.jpg" alt="Hiking & Trekking.jpg"> </a> 
+<a href="gallery/Hot Air Balooning.jpg" target="_blank"><img class="gallery_box_photo" src="gallery/Hot Air Balooning.jpg" alt="Hot Air Balooning.jpg"> </a> 
+<a href="gallery/IMG-20181216-WA0042.jpg" target="_blank"><img class="gallery_box_photo" src="gallery/IMG-20181216-WA0042.jpg" alt="IMG-20181216-WA0042.jpg"> </a> 
+<a href="gallery/IMG-20190315-WA0190.jpg" target="_blank"><img class="gallery_box_photo" src="gallery/IMG-20190315-WA0190.jpg" alt="IMG-20190315-WA0190.jpg"> </a> 
+<a href="gallery/IMG-20190817-WA0081.jpg" target="_blank"><img class="gallery_box_photo" src="gallery/IMG-20190817-WA0081.jpg" alt="IMG-20190817-WA0081.jpg"> </a> 
+<a href="gallery/IMG-20241118-WA0046.jpg" target="_blank"><img class="gallery_box_photo" src="gallery/IMG-20241118-WA0046.jpg" alt="IMG-20241118-WA0046.jpg"> </a> 
+<a href="gallery/IMG-20241118-WA0047.jpg" target="_blank"><img class="gallery_box_photo" src="gallery/IMG-20241118-WA0047.jpg" alt="IMG-20241118-WA0047.jpg"> </a> 
+<a href="gallery/IMG-20241118-WA0048.jpg" target="_blank"><img class="gallery_box_photo" src="gallery/IMG-20241118-WA0048.jpg" alt="IMG-20241118-WA0048.jpg"> </a> 
+<a href="gallery/IMG-20241118-WA0049.jpg" target="_blank"><img class="gallery_box_photo" src="gallery/IMG-20241118-WA0049.jpg" alt="IMG-20241118-WA0049.jpg"> </a> 
+<a href="gallery/IMG-20241118-WA0050.jpg" target="_blank"><img class="gallery_box_photo" src="gallery/IMG-20241118-WA0050.jpg" alt="IMG-20241118-WA0050.jpg"> </a> 
+<a href="gallery/IMG-20241118-WA0051.jpg" target="_blank"><img class="gallery_box_photo" src="gallery/IMG-20241118-WA0051.jpg" alt="IMG-20241118-WA0051.jpg"> </a> 
+<a href="gallery/IMG-20241118-WA0052.jpg" target="_blank"><img class="gallery_box_photo" src="gallery/IMG-20241118-WA0052.jpg" alt="IMG-20241118-WA0052.jpg"> </a> 
+<a href="gallery/IMG-20241118-WA0053.jpg" target="_blank"><img class="gallery_box_photo" src="gallery/IMG-20241118-WA0053.jpg" alt="IMG-20241118-WA0053.jpg"> </a> 
+<a href="gallery/IMG-20241118-WA0056.jpg" target="_blank"><img class="gallery_box_photo" src="gallery/IMG-20241118-WA0056.jpg" alt="IMG-20241118-WA0056.jpg"> </a> 
+<a href="gallery/IMG-20241118-WA0057.jpg" target="_blank"><img class="gallery_box_photo" src="gallery/IMG-20241118-WA0057.jpg" alt="IMG-20241118-WA0057.jpg"> </a> 
+<a href="gallery/IMG-20241118-WA0058.jpg" target="_blank"><img class="gallery_box_photo" src="gallery/IMG-20241118-WA0058.jpg" alt="IMG-20241118-WA0058.jpg"> </a> 
+<a href="gallery/IMG-20241118-WA0059.jpg" target="_blank"><img class="gallery_box_photo" src="gallery/IMG-20241118-WA0059.jpg" alt="IMG-20241118-WA0059.jpg"> </a> 
+<a href="gallery/IMG-20250124-WA0023.jpg" target="_blank"><img class="gallery_box_photo" src="gallery/IMG-20250124-WA0023.jpg" alt="IMG-20250124-WA0023.jpg"> </a> 
+<a href="gallery/IMG-20250124-WA0024.jpg" target="_blank"><img class="gallery_box_photo" src="gallery/IMG-20250124-WA0024.jpg" alt="IMG-20250124-WA0024.jpg"> </a> 
+<a href="gallery/IMG-20250124-WA0025.jpg" target="_blank"><img class="gallery_box_photo" src="gallery/IMG-20250124-WA0025.jpg" alt="IMG-20250124-WA0025.jpg"> </a> 
+<a href="gallery/IMG-20250124-WA0026.jpg" target="_blank"><img class="gallery_box_photo" src="gallery/IMG-20250124-WA0026.jpg" alt="IMG-20250124-WA0026.jpg"> </a> 
+<a href="gallery/IMG-20250124-WA0028.jpg" target="_blank"><img class="gallery_box_photo" src="gallery/IMG-20250124-WA0028.jpg" alt="IMG-20250124-WA0028.jpg"> </a> 
+<a href="gallery/IMG-20250124-WA0029.jpg" target="_blank"><img class="gallery_box_photo" src="gallery/IMG-20250124-WA0029.jpg" alt="IMG-20250124-WA0029.jpg"> </a> 
+<a href="gallery/IMG-20250124-WA0030.jpg" target="_blank"><img class="gallery_box_photo" src="gallery/IMG-20250124-WA0030.jpg" alt="IMG-20250124-WA0030.jpg"> </a> 
+<a href="gallery/IMG-20250124-WA0031.jpg" target="_blank"><img class="gallery_box_photo" src="gallery/IMG-20250124-WA0031.jpg" alt="IMG-20250124-WA0031.jpg"> </a> 
+<a href="gallery/IMG-20250124-WA0032.jpg" target="_blank"><img class="gallery_box_photo" src="gallery/IMG-20250124-WA0032.jpg" alt="IMG-20250124-WA0032.jpg"> </a> 
+<a href="gallery/IMG-20250626-WA0011.jpg" target="_blank"><img class="gallery_box_photo" src="gallery/IMG-20250626-WA0011.jpg" alt="IMG-20250626-WA0011.jpg"> </a> 
+<a href="gallery/IMG-20250626-WA0012.jpg" target="_blank"><img class="gallery_box_photo" src="gallery/IMG-20250626-WA0012.jpg" alt="IMG-20250626-WA0012.jpg"> </a> 
+<a href="gallery/IMG-20250626-WA0013.jpg" target="_blank"><img class="gallery_box_photo" src="gallery/IMG-20250626-WA0013.jpg" alt="IMG-20250626-WA0013.jpg"> </a> 
+<a href="gallery/IMG-20250626-WA0014.jpg" target="_blank"><img class="gallery_box_photo" src="gallery/IMG-20250626-WA0014.jpg" alt="IMG-20250626-WA0014.jpg"> </a> 
+<a href="gallery/IMG-20250626-WA0015.jpg" target="_blank"><img class="gallery_box_photo" src="gallery/IMG-20250626-WA0015.jpg" alt="IMG-20250626-WA0015.jpg"> </a> 
+<a href="gallery/IMG-20250626-WA0016.jpg" target="_blank"><img class="gallery_box_photo" src="gallery/IMG-20250626-WA0016.jpg" alt="IMG-20250626-WA0016.jpg"> </a> 
+<a href="gallery/IMG-20250626-WA0017.jpg" target="_blank"><img class="gallery_box_photo" src="gallery/IMG-20250626-WA0017.jpg" alt="IMG-20250626-WA0017.jpg"> </a> 
+<a href="gallery/IMG-20250626-WA0018.jpg" target="_blank"><img class="gallery_box_photo" src="gallery/IMG-20250626-WA0018.jpg" alt="IMG-20250626-WA0018.jpg"> </a> 
+<a href="gallery/IMG-20250626-WA0019.jpg" target="_blank"><img class="gallery_box_photo" src="gallery/IMG-20250626-WA0019.jpg" alt="IMG-20250626-WA0019.jpg"> </a> 
+<a href="gallery/IMG-20250626-WA0020.jpg" target="_blank"><img class="gallery_box_photo" src="gallery/IMG-20250626-WA0020.jpg" alt="IMG-20250626-WA0020.jpg"> </a> 
+<a href="gallery/IMG-20250626-WA0021.jpg" target="_blank"><img class="gallery_box_photo" src="gallery/IMG-20250626-WA0021.jpg" alt="IMG-20250626-WA0021.jpg"> </a> 
+<a href="gallery/IMG-20250626-WA0022.jpg" target="_blank"><img class="gallery_box_photo" src="gallery/IMG-20250626-WA0022.jpg" alt="IMG-20250626-WA0022.jpg"> </a> 
+<a href="gallery/IMG-20250626-WA0023.jpg" target="_blank"><img class="gallery_box_photo" src="gallery/IMG-20250626-WA0023.jpg" alt="IMG-20250626-WA0023.jpg"> </a> 
+<a href="gallery/IMG-20250626-WA0024.jpg" target="_blank"><img class="gallery_box_photo" src="gallery/IMG-20250626-WA0024.jpg" alt="IMG-20250626-WA0024.jpg"> </a> 
+<a href="gallery/IMG-20250626-WA0025.jpg" target="_blank"><img class="gallery_box_photo" src="gallery/IMG-20250626-WA0025.jpg" alt="IMG-20250626-WA0025.jpg"> </a> 
+<a href="gallery/IMG-20250626-WA0026.jpg" target="_blank"><img class="gallery_box_photo" src="gallery/IMG-20250626-WA0026.jpg" alt="IMG-20250626-WA0026.jpg"> </a> 
+<a href="gallery/IMG-20250626-WA0027.jpg" target="_blank"><img class="gallery_box_photo" src="gallery/IMG-20250626-WA0027.jpg" alt="IMG-20250626-WA0027.jpg"> </a> 
+<a href="gallery/IMG-20250626-WA0028.jpg" target="_blank"><img class="gallery_box_photo" src="gallery/IMG-20250626-WA0028.jpg" alt="IMG-20250626-WA0028.jpg"> </a> 
+<a href="gallery/IMG-20250626-WA0029.jpg" target="_blank"><img class="gallery_box_photo" src="gallery/IMG-20250626-WA0029.jpg" alt="IMG-20250626-WA0029.jpg"> </a> 
+<a href="gallery/IMG-20250626-WA0030.jpg" target="_blank"><img class="gallery_box_photo" src="gallery/IMG-20250626-WA0030.jpg" alt="IMG-20250626-WA0030.jpg"> </a> 
+<a href="gallery/IMG-20250626-WA0031.jpg" target="_blank"><img class="gallery_box_photo" src="gallery/IMG-20250626-WA0031.jpg" alt="IMG-20250626-WA0031.jpg"> </a> 
+<a href="gallery/IMG_20181207_145812.jpg" target="_blank"><img class="gallery_box_photo" src="gallery/IMG_20181207_145812.jpg" alt="IMG_20181207_145812.jpg"> </a> 
+<a href="gallery/IMG_20190104_175235.jpg" target="_blank"><img class="gallery_box_photo" src="gallery/IMG_20190104_175235.jpg" alt="IMG_20190104_175235.jpg"> </a> 
+<a href="gallery/IMG_20190721_095425.jpg" target="_blank"><img class="gallery_box_photo" src="gallery/IMG_20190721_095425.jpg" alt="IMG_20190721_095425.jpg"> </a> 
+<a href="gallery/IMG_20240124_142233.jpg" target="_blank"><img class="gallery_box_photo" src="gallery/IMG_20240124_142233.jpg" alt="IMG_20240124_142233.jpg"> </a> 
+<a href="gallery/Jeep.jpg" target="_blank"><img class="gallery_box_photo" src="gallery/Jeep.jpg" alt="Jeep.jpg"> </a> 
+<a href="gallery/Juggling.jpg" target="_blank"><img class="gallery_box_photo" src="gallery/Juggling.jpg" alt="Juggling.jpg"> </a> 
+<a href="gallery/Jumaring1.jpg" target="_blank"><img class="gallery_box_photo" src="gallery/Jumaring1.jpg" alt="Jumaring1.jpg"> </a> 
+<a href="gallery/Jungle Survival.jpg" target="_blank"><img class="gallery_box_photo" src="gallery/Jungle Survival.jpg" alt="Jungle Survival.jpg"> </a> 
+<a href="gallery/Knives.png" target="_blank"><img class="gallery_box_photo" src="gallery/Knives.png" alt="Knives.png"> </a> 
+<a href="gallery/Knuckle Degrees.png" target="_blank"><img class="gallery_box_photo" src="gallery/Knuckle Degrees.png" alt="Knuckle Degrees.png"> </a> 
+<a href="gallery/Lensatic Compass.png" target="_blank"><img class="gallery_box_photo" src="gallery/Lensatic Compass.png" alt="Lensatic Compass.png"> </a> 
+<a href="gallery/Moon Phases2.png" target="_blank"><img class="gallery_box_photo" src="gallery/Moon Phases2.png" alt="Moon Phases2.png"> </a> 
+<a href="gallery/Nunchaku2.jpg" target="_blank"><img class="gallery_box_photo" src="gallery/Nunchaku2.jpg" alt="Nunchaku2.jpg"> </a> 
+<a href="gallery/Parai Isai.png" target="_blank"><img class="gallery_box_photo" src="gallery/Parai Isai.png" alt="Parai Isai.png"> </a> 
+<a href="gallery/Pipe Hitch with Load.jpg" target="_blank"><img class="gallery_box_photo" src="gallery/Pipe Hitch with Load.jpg" alt="Pipe Hitch with Load.jpg"> </a> 
+<a href="gallery/Rappelling1.jpg" target="_blank"><img class="gallery_box_photo" src="gallery/Rappelling1.jpg" alt="Rappelling1.jpg"> </a> 
+<a href="gallery/River Crossing.png" target="_blank"><img class="gallery_box_photo" src="gallery/River Crossing.png" alt="River Crossing.png"> </a> 
+<a href="gallery/Rock Climbing2.jpg" target="_blank"><img class="gallery_box_photo" src="gallery/Rock Climbing2.jpg" alt="Rock Climbing2.jpg"> </a> 
+<a href="gallery/Rubik's Cube.jpg" target="_blank"><img class="gallery_box_photo" src="gallery/Rubik's Cube.jpg" alt="Rubik's Cube.jpg"> </a> 
+<a href="gallery/Shadow Tip Method.png" target="_blank"><img class="gallery_box_photo" src="gallery/Shadow Tip Method.png" alt="Shadow Tip Method.png"> </a> 
+<a href="gallery/Sheet Bend (Double).png" target="_blank"><img class="gallery_box_photo" src="gallery/Sheet Bend (Double).png" alt="Sheet Bend (Double).png"> </a> 
+<a href="gallery/Silambam.jpg" target="_blank"><img class="gallery_box_photo" src="gallery/Silambam.jpg" alt="Silambam.jpg"> </a> 
+<a href="gallery/Snake Anatomy.png" target="_blank"><img class="gallery_box_photo" src="gallery/Snake Anatomy.png" alt="Snake Anatomy.png"> </a> 
+<a href="gallery/Snorkeling1.png" target="_blank"><img class="gallery_box_photo" src="gallery/Snorkeling1.png" alt="Snorkeling1.png"> </a> 
+<a href="gallery/Snorkeling2.png" target="_blank"><img class="gallery_box_photo" src="gallery/Snorkeling2.png" alt="Snorkeling2.png"> </a> 
+<a href="gallery/SUP1.png" target="_blank"><img class="gallery_box_photo" src="gallery/SUP1.png" alt="SUP1.png"> </a> 
+<a href="gallery/SUP2.png" target="_blank"><img class="gallery_box_photo" src="gallery/SUP2.png" alt="SUP2.png"> </a> 
+<a href="gallery/Teamwork Works.png" target="_blank"><img class="gallery_box_photo" src="gallery/Teamwork Works.png" alt="Teamwork Works.png"> </a> 
+<a href="gallery/Tree Jumaring2.jpg" target="_blank"><img class="gallery_box_photo" src="gallery/Tree Jumaring2.jpg" alt="Tree Jumaring2.jpg"> </a> 
+<a href="gallery/Ursa Major & Leo.png" target="_blank"><img class="gallery_box_photo" src="gallery/Ursa Major & Leo.png" alt="Ursa Major & Leo.png"> </a> 
+<a href="gallery/Wildcraft-2.jpg" target="_blank"><img class="gallery_box_photo" src="gallery/Wildcraft-2.jpg" alt="Wildcraft-2.jpg"> </a> 
+<a href="gallery/Y18-Padmasana (Lotus Pose).jpg" target="_blank"><img class="gallery_box_photo" src="gallery/Y18-Padmasana (Lotus Pose).jpg" alt="Y18-Padmasana (Lotus Pose).jpg"> </a> 

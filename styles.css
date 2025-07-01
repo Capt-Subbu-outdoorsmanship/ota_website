@@ -1,0 +1,729 @@
+
+/* Global Styles */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: rgba(0, 0, 0, 0.934);
+    overflow-x: hidden;
+}
+
+/* Navbar */
+.navbar {
+    background: transparent /* Semi-transparent background */;
+    padding-right: 4%;
+}
+
+.navbar-toggler-icon-custom {
+    width: 1.5em;  /* Adjust as needed */
+    height: 1.5em; /* Adjust as needed */
+    vertical-align: middle; /* Center vertically */
+    background-color: #dcdcdc9c;
+    border-radius: 4px;
+  }
+
+.navbar.fixed-top {
+    /* position: absolute; */
+    transition: background-color 0.5s ease;
+    position: fixed;
+    width: 100%;
+    z-index: 1030;
+}
+
+.navbar.scrolled {
+    background-color: #dcdcdc9c;
+}
+
+.navbar-nav{
+    max-width: 40%;
+}
+
+
+.navbar-title-text{
+    color: white;
+    text-decoration: none;
+    font-family: "Rammetto One", Sans-serif;
+    font-size: 22px;
+    font-weight: 550;
+    line-height: 98px;
+    text-shadow: 0px 0px 10px rgba(0, 0, 0, 0.96);
+}
+
+.navbar-title-text:hover{
+    color: white;
+    transform: scale(1.05);
+}
+
+.navbar-brand{
+    img{
+        height: 100px;
+        width: 100px;
+    }
+}
+
+/* Hero Section */
+.hero-section {
+    /* background: url('https://via.placeholder.com/1920x600') no-repeat center center/cover; */
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("outdoorsman_hero.jpg") no-repeat center center/cover;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    position: relative;
+}
+
+/* Hero Content */
+.hero-content {
+    z-index: 1;
+    font-family: "Rammetto One", Sans-serif;
+    font-size: 75px;
+    font-weight: 600;
+    line-height: 98px;
+    text-shadow: 0px 0px 10px rgba(0, 0, 0, 0.96);
+}
+
+.glow_span{
+    font-size: x-large;
+    color: #fff;
+    text-align: center;
+    -webkit-animation: glow 1s ease-in-out infinite alternate;
+    -moz-animation: glow 1s ease-in-out infinite alternate;
+    animation: glow 1s ease-in-out infinite alternate;
+}
+
+@-webkit-keyframes glow {
+    from {
+      text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #ffd700, 0 0 40px #ffd700, 0 0 50px #ffd700, 0 0 60px #ffd700, 0 0 70px #ffd700;
+    }
+    to {
+      text-shadow: 0 0 20px #fff, 0 0 30px #ffeb3b, 0 0 40px #ffeb3b, 0 0 50px #ffeb3b, 0 0 60px #ffeb3b, 0 0 70px #ffeb3b, 0 0 80px #ffeb3b;
+    }
+  }
+  
+/* Adjust Section Margins */
+#about, #courses, #contact {
+    padding-top: 80px; /* To compensate for fixed navbar height */
+}
+
+
+/* Mission objective concept */
+.mission_container{
+    display: flex;
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("pexels/campsite_bg.jpg") no-repeat center center/cover;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: white;
+    min-height: 100vh;
+    padding: 50vh 0px;
+}
+
+/* wh_row */
+.what_we_do{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("pexels/obstacle_course.jpg") no-repeat center center/cover;
+    min-height: 100vh;
+    color: white;
+    padding: 50vh 30px;
+}
+.what_we_do_header{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+}
+
+.what_we_do_row {
+    display: grid;
+    grid-template-columns: 31.7% 31.7% 31.7%;
+    gap: 2vh;
+    height: auto;
+    align-items: stretch;
+}
+.what_we_do_row > *:last-child {
+    grid-column: 2 / 3; 
+    justify-self: center; 
+}
+
+.what_we_do_list{
+    height: 100%;
+    background-color: #dcdcdc9c;
+    border-radius: 15px;
+}
+
+.what_we_do_list_heading{
+    text-align: left;
+    text-decoration: underline;
+    margin-bottom: 5vh;
+}   
+
+.what_we_do_title_container{
+    margin-top: 5vh;
+    text-align: center;
+    padding:1rem;
+    background-color: #dcdcdc9c;
+}
+
+.what_we_do_content{
+    font-size: large;
+}
+
+.what_we_do_content_list_element{
+    margin-bottom: 2vh;
+}
+
+.what_we_do_content_list_element_heading{
+    font-size: x-large;
+    background-color: #dcdcdc9c;
+    padding: 2px;
+    border-radius: 5px;
+    margin-right: 2px;
+}
+
+
+/* WHY */
+
+.why_we_do{
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("pexels/camp_fire.jpg") no-repeat center center/cover;
+    min-height: 100vh;
+    color: white;
+    padding: 50vh 0px;
+}
+
+
+.why_we_do_title_container{
+    margin-top: 5vh;
+    text-align: center;
+    padding:1rem;
+    background-color: #dcdcdc9c;
+}
+
+.why_we_do_content{
+    font-size: large;
+    width: 90%;
+    margin-left: 5%;
+}
+
+.why_we_do_list_heading{
+    text-align: left;
+    text-decoration: underline;
+    margin-bottom: 5vh;
+}  
+
+.why_we_do_content_list_element{
+    margin-bottom: 2vh;
+}
+
+
+/* HOW */
+
+.how_we_do{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("pexels/archery_bg.jpg") no-repeat center center/cover;
+    min-height: 100vh;
+    color: white;
+    padding: 50vh 30px;
+}
+.how_we_do_header{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+}
+
+.how_we_do_row {
+    display: grid;
+    grid-template-columns: 31.7% 31.7% 31.7%;
+    gap: 2vh;
+    height: auto;
+    align-items: stretch;
+}
+.how_we_do_row > *:last-child {
+    grid-column: 2 / 3; 
+    justify-self: center; 
+}
+
+.how_we_do_list{
+    height: 100%;
+    background-color: #dcdcdc9c;
+    border-radius: 15px;
+}
+
+.how_we_do_list_heading{
+    
+    text-align: left;
+    text-decoration: underline;
+    margin-bottom: 5vh;
+}
+
+.how_we_do_content{
+    font-size: large;
+    width: 90%;
+    margin-left: 5%;
+}
+
+.how_we_do_title_container{
+    margin-top: 5vh;
+    text-align: center;
+    padding:1rem;
+    background-color: #dcdcdc9c;
+}
+
+.how_we_do_content_list_element{
+    margin-bottom: 2vh;
+}
+
+
+/* WHERE */
+
+
+.where_we_do{
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("pexels/river.jpg") no-repeat center center/cover;
+    min-height: 100vh;
+    color: white;
+    /* padding-bottom: 5vh; */
+    padding: 50vh 0px;
+}
+
+.where_we_do_header{
+    padding-top: 3vh;
+    text-align: center;
+    margin-bottom: 2vh;
+}
+
+.where_we_do_title_container{
+    margin-top: 5vh;
+    text-align: center;
+    padding:1rem;
+    background-color: #dcdcdc9c;
+}
+
+.campsite_grid{
+    display: grid;
+    grid-template-columns: 50% 50%;
+    gap: 2vh;
+   }
+
+.campsite_card{
+    background-color: #dcdcdc9c;
+    border-radius: 10px;
+    width: 80%;
+    margin: 3vh 10%;
+    padding: 5px;
+}
+
+.campsite_card_title{
+    text-align: center;
+}
+
+.campsite_location_card{
+    width: 100%;
+    max-height: 40vh;
+    border-radius: 10px;
+}
+
+/* TEAM */
+
+.team_div {
+    padding-top: 2vh;
+    position: relative;
+    z-index: 1;
+    min-height: 100vh;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: white;
+    padding: 50vh 0px;
+}
+
+.team_div .team_div_bg {
+    position: absolute;
+    z-index: -1;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(pexels/army_backpack.jpg) no-repeat center center/cover;
+    opacity: .4;
+    width: 100%;
+    height: 100%;
+}
+
+.team_div .container .grid_data{
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+}
+
+.style_capt_subbu{
+    text-align: center;
+    margin-top: 16px; 
+    font-size: 2rem;
+    margin-bottom: 0;
+}
+
+.capt_subbu_profile_photo{
+    border-radius: 10px;
+    width: 50%;
+
+}
+
+
+.capt_profile_text_div{
+    background-color: #dcdcdc9c;
+    padding: 5px;
+    width: 86%;
+    border-radius: 10px;
+    margin-left: 7%;
+    margin-bottom: 1%;
+}
+
+.capt_proile_text{
+    text-align: left;
+    width: 98%;
+    margin-left: 2%;
+}
+
+.capt_proile_text_books{
+    width: 50%;
+    margin-left: 25%;
+    text-align: left;
+}
+
+.books{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px; /* spacing between items */
+}
+
+.book {
+    flex: 0 0 22%; /* ~4 per row with some gap */
+    box-sizing: border-box;
+    text-align: center;
+    padding: 10px;
+    background-color: #dcdcdc9c; /* optional */
+    border-radius: 10px;    /* optional */
+}
+
+.style_books{
+    font-size: 0.8rem;
+}
+
+
+.team_member_title{
+    margin: 3vh 0px ;
+}
+
+.team_member_jumbo{
+    background-color: #dcdcdc9c;
+    max-height: 60vh;
+    height: 50vh;
+}
+
+.team_member_image{
+    max-width: 100%;
+    border-radius: 10px;
+    max-height: 30vh;
+}
+
+
+/* GALLERY */
+
+.gallery_box{
+    border: 2px solid #dcdcdc9c;
+}
+
+.gallery_header{
+    text-align: center;
+    margin: 0% 0%;
+    padding: 5vh 0%;
+}
+
+
+.gallery_section{
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("pexels/camp_fire2.jpg") no-repeat center center/cover;
+    min-height: 100vh;
+    color: white;
+}
+
+.gallery_box{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px; /* spacing between items */
+    padding: 5vh 1%;
+    max-height: 100vh;
+    overflow-x: scroll;
+}
+
+.gallery_box_photo{
+    flex: 0 0 22%; /* ~4 per row with some gap */
+    box-sizing: border-box;
+    text-align: center;
+    padding: 2px;
+    background-color: #fff; /* optional */
+    border-radius: 10px;    /* optional */
+    max-height: 250px;
+    max-width: 350px;
+}
+
+.gallery_box_photo:hover{
+    transform: scale(1.05);
+}
+
+
+
+
+
+
+
+/* Contact */
+
+.contact_form_section{
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("pexels/bird.jpg") no-repeat center center/cover;
+    min-height: 140vh;
+    color: white;
+    /* padding-bottom: 5vh; */
+    padding: 50vh 0px;
+}
+
+.contact_profile_div{
+    text-align: center;
+    padding-top: 2vh;
+}
+
+.contact_profile_picture{
+    margin: 0% 10%;
+    width: 80%;
+    max-height: 50vh;
+    border-radius: 10px;
+}
+
+.marquee-container {
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    background: #dcdcdc9c;
+    padding: 10px 0;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    min-height: 40vh;
+    justify-content: center;
+    margin-top: 2vh;
+}
+.marquee-content {
+    animation: marquee 20s linear infinite;
+    white-space: nowrap;
+}
+.marquee-content span {
+    padding: 0 30px;
+    font-size: 18px;
+}
+@keyframes marquee {
+    from {
+        transform: translateX(100%);
+    }
+    to {
+        transform: translateX(-100%);
+    }
+}
+
+.contact_form_header{
+    padding-top: 3vh;
+    text-align: center;
+    margin-bottom: 6vh;
+}
+
+.contact_form{
+    background-color: #dcdcdc9c;
+}
+
+
+
+
+/* Mobile Responsive */
+
+@media (max-width: 768px) {
+
+  /* GLOBAL */
+  body {
+    font-size: 16px;
+    /* background-color: red; */
+  }
+
+  .hero-content {
+    font-size: 38px;
+    line-height: 1.2;
+    padding: 0 10px;
+  }
+
+  .glow_span {
+    font-size: 16px;
+    padding: 10px;
+  }
+
+  /* NAVBAR */
+  .navbar-title-text {
+    font-size: 18px;
+    line-height: 16px;
+  }
+  .navbar-brand{
+    img{
+        height: 60px;
+        width: 60px;
+    }
+}
+
+  /* SECTION PADDING */
+  #about, #courses, #contact,
+  .mission_container,
+  .what_we_do,
+  .why_we_do,
+  .where_we_do,
+  .team_div,
+  .contact_form_section {
+    padding: 20vh 5vw;
+  }
+  
+  .what_we_do_row{
+    display: flex;
+    flex-direction: column;
+  }
+
+  .mission_container{
+    display: flex;
+    flex-direction: column;
+    gap:32px;
+  }
+
+  /* WHAT WE DO / WHY WE DO */
+
+
+  .what_we_do_list_heading{
+    text-align: center;
+    
+}   
+
+  .what_we_do_content,
+  .why_we_do_content {
+    font-size: 16px;
+    padding: 10px;
+  }
+
+  .what_we_do_title_container_text, .why_we_do_title_container_text{
+    font-size: x-large  
+  }
+
+  .campsite_grid{
+    display: grid;
+    grid-template-columns: 100%;
+    gap: 2vh;
+   }
+
+
+   /* Where We Do */
+
+   
+
+  /* CARDS */
+  .campsite_card {
+    width: 90%;
+    margin: 2vh auto;
+    padding: 10px;
+  }
+
+  .campsite_location_card {
+    max-height: 30vh;
+    width: 100%;
+    object-fit: cover;
+  }
+
+  /* TEAM SECTION */
+
+  .capt_subbu_profile_photo{
+    width: 100%;
+  }
+
+  .capt_proile_text_books {
+    width: 90%;
+    margin-left: 5%;
+  }
+
+  .style_capt_subbu{
+    text-align: center;
+    margin-top: 16px; 
+    font-size: 1.25rem;
+  }
+
+
+  .capt_profile_text_div{
+    width: 96%;
+    margin-left: 2%;
+  }
+
+  .book {
+        flex: 0 0 45%;
+    }
+
+  .team_div .container .grid_data{
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  }
+
+  .team_member_image {
+    max-height: 25vh;
+  }
+
+  .team_member_jumbo {
+    max-height: 25em;
+    padding: 30px 10px;
+  }
+
+  /* CONTACT SECTION */
+  .contact_profile_picture {
+    width: 100%;
+    margin: 0;
+    max-height: 40vh;
+  }
+
+  .marquee-container {
+    min-height: 25vh;
+    font-size: 14px;
+  }
+
+  marquee {
+    font-size: 50px;
+    }
+
+  /* FORM */
+  .contact_form {
+    padding: 15px;
+    max-width: fit-content;
+  }
+
+  .contact_form_header {
+    margin-bottom: 3vh;
+  }
+
+  /* Gallery */
+
+
+  .gallery_box{
+    max-height: 70vh;
+    width: 94%;
+    margin: 1vh 3%;
+  }
+
+  .gallery_box_photo {
+        flex: 0 0 45%;
+    }
+
+    
+}
