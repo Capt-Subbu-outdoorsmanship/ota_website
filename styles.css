@@ -109,7 +109,7 @@ body {
 /* Mission objective concept */
 .mission_container{
     display: flex;
-    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("pexels/campsite_bg.jpg") no-repeat center center/cover;
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("pexels_campsite_bg.jpg") no-repeat center center/cover;
     justify-content: center;
     align-items: center;
     text-align: center;
@@ -123,7 +123,7 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("pexels/obstacle_course.jpg") no-repeat center center/cover;
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("pexels_obstacle_course.jpg") no-repeat center center/cover;
     min-height: 100vh;
     color: white;
     padding: 50vh 30px;
@@ -186,7 +186,7 @@ body {
 /* WHY */
 
 .why_we_do{
-    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("pexels/camp_fire.jpg") no-repeat center center/cover;
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("pexels_camp_fire.jpg") no-repeat center center/cover;
     min-height: 100vh;
     color: white;
     padding: 50vh 0px;
@@ -223,7 +223,7 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("pexels/archery_bg.jpg") no-repeat center center/cover;
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("pexels_archery_bg.jpg") no-repeat center center/cover;
     min-height: 100vh;
     color: white;
     padding: 50vh 30px;
@@ -282,7 +282,7 @@ body {
 
 
 .where_we_do{
-    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("pexels/river.jpg") no-repeat center center/cover;
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("pexels_river.jpg") no-repeat center center/cover;
     min-height: 100vh;
     color: white;
     /* padding-bottom: 5vh; */
@@ -347,7 +347,7 @@ body {
     bottom: 0;
     left: 0;
     right: 0;
-    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(pexels/army_backpack.jpg) no-repeat center center/cover;
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(pexels_army_backpack.jpg) no-repeat center center/cover;
     opacity: .4;
     width: 100%;
     height: 100%;
@@ -446,7 +446,7 @@ body {
 
 
 .gallery_section{
-    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("pexels/camp_fire2.jpg") no-repeat center center/cover;
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("pexels_camp_fire2.jpg") no-repeat center center/cover;
     min-height: 100vh;
     color: white;
 }
@@ -486,7 +486,7 @@ body {
 /* Contact */
 
 .contact_form_section{
-    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("pexels/bird.jpg") no-repeat center center/cover;
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("pexels_bird.jpg") no-repeat center center/cover;
     min-height: 140vh;
     color: white;
     /* padding-bottom: 5vh; */
